@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Core_Proj\\DayFourTsk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{221FCCE9-F22E-40BC-B774-401006CE9C8D}|DayFourTsk\\DayFourTsk.csproj|f:\\core_proj\\dayfourtsk\\dayfourtsk\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221FCCE9-F22E-40BC-B774-401006CE9C8D}|DayFourTsk\\DayFourTsk.csproj|solutionrelative:dayfourtsk\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221FCCE9-F22E-40BC-B774-401006CE9C8D}|DayFourTsk\\DayFourTsk.csproj|f:\\core_proj\\dayfourtsk\\dayfourtsk\\dataaccess\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221FCCE9-F22E-40BC-B774-401006CE9C8D}|DayFourTsk\\DayFourTsk.csproj|solutionrelative:dayfourtsk\\dataaccess\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221FCCE9-F22E-40BC-B774-401006CE9C8D}|DayFourTsk\\DayFourTsk.csproj|f:\\core_proj\\dayfourtsk\\dayfourtsk\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{221FCCE9-F22E-40BC-B774-401006CE9C8D}|DayFourTsk\\DayFourTsk.csproj|solutionrelative:dayfourtsk\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221FCCE9-F22E-40BC-B774-401006CE9C8D}|DayFourTsk\\DayFourTsk.csproj|f:\\core_proj\\dayfourtsk\\dayfourtsk\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221FCCE9-F22E-40BC-B774-401006CE9C8D}|DayFourTsk\\DayFourTsk.csproj|solutionrelative:dayfourtsk\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221FCCE9-F22E-40BC-B774-401006CE9C8D}|DayFourTsk\\DayFourTsk.csproj|f:\\core_proj\\dayfourtsk\\dayfourtsk\\dataaccess\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221FCCE9-F22E-40BC-B774-401006CE9C8D}|DayFourTsk\\DayFourTsk.csproj|solutionrelative:dayfourtsk\\dataaccess\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Core_Proj\\DayFourTsk\\DayFourTsk\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "DayFourTsk\\Views\\User\\Index.cshtml",
+              "ToolTip": "F:\\Core_Proj\\DayFourTsk\\DayFourTsk\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "DayFourTsk\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T17:12:41.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "F:\\Core_Proj\\DayFourTsk\\DayFourTsk\\DataAccess\\UserDAL.cs",
+              "RelativeDocumentMoniker": "DayFourTsk\\DataAccess\\UserDAL.cs",
+              "ToolTip": "F:\\Core_Proj\\DayFourTsk\\DayFourTsk\\DataAccess\\UserDAL.cs",
+              "RelativeToolTip": "DayFourTsk\\DataAccess\\UserDAL.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwFgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:20:52.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\Core_Proj\\DayFourTsk\\DayFourTsk\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DayFourTsk\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\Core_Proj\\DayFourTsk\\DayFourTsk\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DayFourTsk\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwDkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:35:19.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Core_Proj\\DayFourTsk\\DayFourTsk\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DayFourTsk\\Models\\User.cs",
+              "ToolTip": "F:\\Core_Proj\\DayFourTsk\\DayFourTsk\\Models\\User.cs",
+              "RelativeToolTip": "DayFourTsk\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:31:41.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAccessLayer.cs",
+              "DocumentMoniker": "F:\\Core_Proj\\DayFourTsk\\DayFourTsk\\DataAccess\\DataAccessLayer.cs",
+              "RelativeDocumentMoniker": "DayFourTsk\\DataAccess\\DataAccessLayer.cs",
+              "ToolTip": "F:\\Core_Proj\\DayFourTsk\\DayFourTsk\\DataAccess\\DataAccessLayer.cs",
+              "RelativeToolTip": "DayFourTsk\\DataAccess\\DataAccessLayer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T10:13:17.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
