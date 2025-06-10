@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Core_Proj\\DayFiveTsk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED25C8F9-E0DF-4472-8910-77DADA4142A5}|DayFiveTsk\\DayFiveTsk.csproj|f:\\core_proj\\dayfivetsk\\dayfivetsk\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED25C8F9-E0DF-4472-8910-77DADA4142A5}|DayFiveTsk\\DayFiveTsk.csproj|solutionrelative:dayfivetsk\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED25C8F9-E0DF-4472-8910-77DADA4142A5}|DayFiveTsk\\DayFiveTsk.csproj|f:\\core_proj\\dayfivetsk\\dayfivetsk\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED25C8F9-E0DF-4472-8910-77DADA4142A5}|DayFiveTsk\\DayFiveTsk.csproj|solutionrelative:dayfivetsk\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED25C8F9-E0DF-4472-8910-77DADA4142A5}|DayFiveTsk\\DayFiveTsk.csproj|f:\\core_proj\\dayfivetsk\\dayfivetsk\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED25C8F9-E0DF-4472-8910-77DADA4142A5}|DayFiveTsk\\DayFiveTsk.csproj|solutionrelative:dayfivetsk\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED25C8F9-E0DF-4472-8910-77DADA4142A5}|DayFiveTsk\\DayFiveTsk.csproj|f:\\core_proj\\dayfivetsk\\dayfivetsk\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED25C8F9-E0DF-4472-8910-77DADA4142A5}|DayFiveTsk\\DayFiveTsk.csproj|solutionrelative:dayfivetsk\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Core_Proj\\DayFiveTsk\\DayFiveTsk\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "DayFiveTsk\\Views\\User\\Index.cshtml",
+              "ToolTip": "F:\\Core_Proj\\DayFiveTsk\\DayFiveTsk\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "DayFiveTsk\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwA0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T14:12:20.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDBContext.cs",
+              "DocumentMoniker": "F:\\Core_Proj\\DayFiveTsk\\DayFiveTsk\\Data\\UserDBContext.cs",
+              "RelativeDocumentMoniker": "DayFiveTsk\\Data\\UserDBContext.cs",
+              "ToolTip": "F:\\Core_Proj\\DayFiveTsk\\DayFiveTsk\\Data\\UserDBContext.cs",
+              "RelativeToolTip": "DayFiveTsk\\Data\\UserDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:17:16.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\Core_Proj\\DayFiveTsk\\DayFiveTsk\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DayFiveTsk\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\Core_Proj\\DayFiveTsk\\DayFiveTsk\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DayFiveTsk\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAWwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:39:42.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Core_Proj\\DayFiveTsk\\DayFiveTsk\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DayFiveTsk\\Models\\User.cs",
+              "ToolTip": "F:\\Core_Proj\\DayFiveTsk\\DayFiveTsk\\Models\\User.cs",
+              "RelativeToolTip": "DayFiveTsk\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:57:32.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
