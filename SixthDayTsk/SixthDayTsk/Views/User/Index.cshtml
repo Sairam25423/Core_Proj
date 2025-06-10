@@ -1,0 +1,81 @@
+﻿@model IEnumerable<SixthDayTsk.Models.User>
+@{
+    ViewBag.Title = "User List";
+}
+<div class="container">
+    <div class="card">
+        <div class="card header">
+            <h2 class="text-primary text-center">Users List</h2>
+        </div>
+        <div class="card body">
+            <div class="row">
+                <div class="col-mg-4"></div>
+                <div class="col-mg-4 text-center">
+                    <form asp-controller="User" asp-action="Index" method="get" class="p-5">
+                        <input type="text" name="search" placeholder="Search..." value="@Context.Request.Query["search"]" />
+                        <button type="submit">Search</button>
+                    </form>
+                </div>
+                <div class="col-mg-4"></div>
+            </div>
+
+            <div class="row mt-3">
+                <div class="table-responsive">
+                    <table class="table table-hover table-striped table-bordered table-responsive">
+                        <thead>
+                            <tr>
+                                <th class="text-center align-middle">S.No</th>
+                                <th class="text-center align-middle"><a asp-route-sortOrder="@ViewBag.NameSort"></a>Name</th>
+                                <th class="text-center align-middle"><a asp-route-sortOrder="@ViewBag.AgeSort"></a>Email</th>
+                                <th class="text-center align-middle">Age</th>
+                                <th class="text-center align-middle">Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                int serialNumber = (((int)ViewBag.CurrentPage - 1) * (int)ViewBag.PageSize + 1);
+                            }
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td class="text-center align-middle">@serialNumber</td>
+                                    <td class="text-center align-middle">@item.Name</td>
+                                    <td class="text-center align-middle">@item.Email</td>
+                                    <td class="text-center align-middle">@item.Age</td>
+                                    <td>
+                                        <div class="row g-2">
+                                            <div class="col-6">
+                                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary w-100">Edit</a>
+                                            </div>
+                                            <div class="col-6">
+                                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger w-100">Delete</a>
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                serialNumber++;
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="pagination">
+                @for (int a = 1; a <= (int)ViewBag.TotalPages; a++)
+                {
+                    if (a == (int)ViewBag.CurrentPage)
+                    {
+                        <span><strong>@a</strong></span>
+                    }
+                    else
+                    {
+                        <a asp-action="Index"
+                           asp-route-page="@a"
+                           asp-route-search="@ViewBag.CurrentSearch"
+                           asp-route-sortOrder="@ViewBag.CurrentSort">@a</a>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+</div>
